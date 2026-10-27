@@ -28,11 +28,13 @@ CSS and JavaScript are included in the same file. The page uses system fonts, an
 
 The website is at the **proposal stage**. Final workshop acceptance, contribution deadlines, and the exact event date are not represented as confirmed. The draft schedule and robotics cases follow the supplied full-proposal snapshot; website copy does not edit or supersede the proposal.
 
-The October 27, 2026 content update incorporates the supplied workshop workbook. Rika Antonova, Jiajun Wu, Bolei Zhou, and Keerthana Gopalakrishnan are listed as confirmed participants; talk titles, formats, and session assignments remain pending. Keerthana Gopalakrishnan's and Tianyu Shi's affiliations are explicitly left to be confirmed. No pending or declined invitees, invitation correspondence, private contact details, or internal task records are published.
+The October 27, 2026 content update incorporates the supplied workshop workbook. Rika Antonova, Jiajun Wu, Bolei Zhou, and Keerthana Gopalakrishnan are listed as confirmed participants; talk titles, formats, and session assignments remain pending. Keerthana Gopalakrishnan's affiliation is explicitly left to be confirmed. No pending or declined invitees, invitation correspondence, private contact details, or internal task records are published.
 
 The [official ICRA workshop call](https://2027.ieee-icra.org/contribute/call-for-workshop-and-tutorial/) supplies the November 2, 2026 organizer-proposal deadline, January 31, 2027 workshop decision, and May 24 or May 28 workshop dates. Organizer deadlines are kept separate from contributed-paper dates, which remain unannounced.
 
 Chongyu Zhu and Xinge Liu are included in the organizing team as PhD candidates at the University of Toronto, using the names, affiliations, roles, and color portraits supplied by the user.
+
+Tianyu Shi's affiliation is McGill University, as supplied by the user, with a square color portrait. Yanan Sui is listed as Associate Professor at Tsinghua University, matching his [personal homepage](https://yanansui.com/), which is linked from his organizer name.
 
 ## Profile photos
 
@@ -44,6 +46,8 @@ Photos are stored locally and each speaker card links to the corresponding profe
 - Keerthana Gopalakrishnan: https://storage.googleapis.com/gweb-research2023-media/pubtools/7002.png
 - Chongyu Zhu: user-supplied color portrait, stored at `assets/chongyu-zhu.jpg`.
 - Xinge Liu: user-supplied color portrait, stored at `assets/xinge-liu.jpg`.
+- Tianyu Shi: user-supplied color portrait, cropped to square with ImageGen and stored at `assets/tianyu-shi.png`.
+- Yanan Sui: https://yanansui.com/src/pi.jpg, stored at `assets/yanan-sui.jpg`.
 
 Before the public call, replace pending details, review the schedule and affiliations, and remove the `noindex, nofollow` robots meta tag once the site is ready for indexing. The public website does not contain the reviewers' text, review ID, or private proposal files.
 
