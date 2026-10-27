@@ -32,7 +32,9 @@ The October 27, 2026 content update incorporates the supplied workshop workbook.
 
 The [official ICRA workshop call](https://2027.ieee-icra.org/contribute/call-for-workshop-and-tutorial/) supplies the November 2, 2026 organizer-proposal deadline, January 31, 2027 workshop decision, and May 24 or May 28 workshop dates. Organizer deadlines are kept separate from contributed-paper dates, which remain unannounced.
 
-## Speaker photos
+Chongyu Zhu is included in the organizing team as a PhD candidate at the University of Toronto, using the name, affiliation, role, and color portrait supplied by the user.
+
+## Profile photos
 
 Photos are stored locally and each speaker card links to the corresponding professional profile. Photos remain the property of their respective rights holders.
 
@@ -40,6 +42,7 @@ Photos are stored locally and each speaker card links to the corresponding profe
 - Jiajun Wu: https://jiajunwu.com/images/Jiajun_Wu.jpg
 - Bolei Zhou: https://boleizhou.github.io/assets/img/prof_pic2.jpg
 - Keerthana Gopalakrishnan: https://storage.googleapis.com/gweb-research2023-media/pubtools/7002.png
+- Chongyu Zhu: user-supplied color portrait, stored at `assets/chongyu-zhu.jpg`.
 
 Before the public call, replace pending details, review the schedule and affiliations, and remove the `noindex, nofollow` robots meta tag once the site is ready for indexing. The public website does not contain the reviewers' text, review ID, or private proposal files.
 
